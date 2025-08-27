@@ -11,7 +11,8 @@ public class Day1 {
 		int add = a + b;
 		System.out.println(" sum is equal to" + add);
 		
-sc.close();
+		
+		sc.close();
 	}
 
 }
